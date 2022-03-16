@@ -1,6 +1,7 @@
 # Hello-World
 
 ## Authors
+- [Mercy Wairimu](https://github.com/Mercywairimu01)
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
 - Add your clickable username here. It should point to your GitHub account. 
 
